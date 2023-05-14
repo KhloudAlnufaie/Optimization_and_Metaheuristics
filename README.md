@@ -1,4 +1,4 @@
-# Metaheuristic-Based Hyperparameter Tuning on Deepfake Detection using Jaya Algorithm
+# Metaheuristic-Based Hyperparameter Tuning on Deepfake Video Detection using Jaya Algorithm
 
 ---
 This is a college project required for Optimization course (CS467) .<br>
