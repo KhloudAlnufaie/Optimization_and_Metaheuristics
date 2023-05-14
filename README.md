@@ -71,7 +71,7 @@ python prepare_data.py
 
 [@AlhanoufAlmans](https://github.com/AlhanoufAlmans)
 
-[@hkh7897](https://github.com/hkh7897)
+[@KhloudAlnufaie](https://github.com/KhloudAlnufaie)
 
 [@RaghadKhaled](https://github.com/RaghadKhaled)
 
