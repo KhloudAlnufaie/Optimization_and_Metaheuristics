@@ -62,8 +62,10 @@ The overall model architecture that follows the step of implementation is illust
 ```
 python prepare_data.py
 ```
-- Then you can follow the code in the jupyter notebook `Deepfake video detection with using Jaya optimization algorithm.ipynb`.
-
+- Then you can follow the code in the jupyter notebook :
+```
+Deepfake video detection with using Jaya optimization algorithm.ipynb
+```
 
 ---
 
